@@ -1,108 +1,155 @@
-# Syllabus Site
+# História Ambiental Digital: Criando narrativas interativas com acervos da biodiversidade
 
-This is an experiment in documenting design courses and a template for rendering Markdown files as one-page websites.
+Oficina oferecida pelo Programa de Pós-Graduação em História Política e Bens Culturais e pelo Laboratório de Humanidades Digitais do CPDOC/FGV, com financiamento da FAPERJ.
+
+__18 e 25 de outubro de 2024, das 14h às 17h__ - _(online/zoom)_
+
+[Inscrições aqui](https://cpdoc.fgv.br/2024-oficinas-pphpbc)
 
 
-Design is all about process, yet we tend to focus on results when documenting design courses. This is an attempt to shift the focus from the latter to the former.
+<img src='img/bruno.png' class='noresize'>
+
+[Bruno Buccalon](https://bruno.land/) doutorando em história na Rice University e na Unicamp, pesquisa a criação do Parque Nacional da Tijuca. Atualmente participa do programa de trainee do Getty Research Institute. 
 
 
-Scroll along to find out  
-[why](#why), [what](#what), [how](#how) & [who](#who).  
+### Primeiro dia
+
+Foco nos acervos da biodiversidade
+
+- Primeiro isso
+- Depois aquilo
+
+E etcetera...
+
+
+### Segundo dia
+
+Foco nas ferramentas de narrativas
+
+- Primeiro isso
+- Depois aquilo
+
+E etcetera...
 
 
 ---
 
 
-## Why 
+## Apresentação
 
-In the realm of design education and research, there's a common emphasis on outcomes—be it presentations, prototypes, or papers. This focus, while essential, tends to sideline the  exploratory and dynamic process leading to these results. The journey to the final projects is marked by twists, turns, and tangents. This is where much of the learning and discovery occurs. 
+A oficina proporciona uma visão abrangente dos principais acervos digitais para pesquisas em história ambiental, ecologia histórica, geografia histórica, história natural, biologia, meio ambiente e áreas correlatas. O foco será na utilização de documentação histórica para criar narrativas interativas sobre fauna, flora e funga. Serão apresentadas ferramentas de "digital storytelling" e melhores práticas na reutilização de acervos digitais. Exercícios temáticos (por ex., sobre o Parque Nacional da Tijuca) ajudarão na assimilação do conhecimento apresentado.
 
+
+<img src='img/plant-humanities.jpg' class='noresize'>
+
+[Plant Humanities Lab](https://lab.plant-humanities.org/) de Dumbarton Oaks
+
+
+<img src='img/botannica.jpg'>
+
+[Botannica Tirannica](https://botannicatirannica.desvirtual.com/) por Giselle Beiguelman
+
+
+---
+
+
+## Acervos
+
+Descrever o que entendo por acervos da biodiversidade
 
 *Syllabus Site* was conceived as a tool to highlight and document these critical but frequently overlooked aspects of design projects. It serves as a dynamic interface chronicling the voyage through readings, workshops, and discussions.
-
 
 This approach not only retains but celebrates the meandering nature of design as an intellectual journey, ensuring that the wealth of inspirations—from historical examples and theoretical frameworks to contemporary projects and research studies—is preserved and made accessible. 
 
 
+### GBIF
+
+[Descrição do GBIF](https://www.gbif.org/)
+
+
+### Biodiversity Heritage Library
+
+[Descrição da BHL](https://www.biodiversitylibrary.org/)
+
+
+### Wikidata
+
+[Descrição da Wikidata](https://www.wikidata.org/)
+
+
+### SpeciesLink
+
+[Descrição do SpeciesLink](https://specieslink.net/search/)
+
+
+### Jardim Botânico do Rio de Janeiro
+
+[Descrição do JABOT e demais sistemas](https://jabot.jbrj.gov.br/)
+
+
 ---
 
 
-## What
+## Narrativas
 
 A *Syllabus Site* is a one-page website arranging its elements along sections that can be scrolled vertically.
 
 
-### Design
+### Juncture
 
-The webpage is designed with the aim to open an evocative information space, where the sources that foster creativity, dialogue, and learning can be gathered, recapitulated, and appreciated. The monolithic structure of conventional documents is broken up, by introducing a relational quality to the connections between sections and items.
-
-
-### Structure
-
-There are two main types of elements:
-
-- **Sections** – Larger blocks gather the material for weekly course sessions.
-- **Items** – Smaller elements feature images, text, and other content.
-
-Each item is connected with its section by a thin line. The navigation (≡) gives access to all sections.
-
-The last section acts as the footer, where the typical array of logos and links belongs.
+Descrição do Juncture
 
 
-### Examples
+### imagineRio
 
-The template is in use to document the following [Interface Design](https://interface.fh-potsdam.de) courses offered at [FH Potsdam](https://www.fh-potsdam.de/):
-
-- **[Decolonizing Data Visualization – Visualizing Postcolonies](https://infovis.fh-potsdam.de/decolonizing/)** (Summer 2022)
-- **[Organigrams for/from the future](https://infovis.fh-potsdam.de/organigrams/)** (Summer 2023)
+Descrição do imagineRio
 
 
-<img src='img/decolonizing.webp' class='noresize'>
+### Exhibit.so
 
-[Decolonizing Data Visualization – Visualizing Postcolonies](https://infovis.fh-potsdam.de/decolonizing/)
+Descrição do Exhibit.so
 
 
-<img src='img/organigrams.webp' class='noresize'>
+### StoryMap.js
 
-[Organigrams for/from the future](https://infovis.fh-potsdam.de/organigrams/)
+Descrição do StoryMap.js
 
+
+### ESRI StoryMaps
+
+Descrição do ESRI StoryMaps
 
 ---
 
 
-## How
+## Exercício
 
-The *Syllabus Site* template can be easily used with minimal technical requirements.
-
-
-![](img/sidebyside.webp)  
-Page content and source side by side
+Apresentação do exercício
 
 
-### Get started
+<img src='img/tijuca-photo.jpg' class='noresize'>
+
+[Tijuca Floresta Arquivo](https://tiju.ca/)
+
+
+### Objetivo
+
+Descrição do objetivo
+
+
+### Instruções
 
 1. Download or clone the [GitHub repository](https://github.com/uclab-potsdam/syllabus-site/)
 2. Give your page a title, fill out open graph fields, and adjust theme color in `index.html`
 3. Add your content into `README.md` and `img/`
 
 
-### Files
+<img src='img/exsicatas.jpg'>
 
-The template has the following file structure:
-
-      img/
-      index.html
-      src/
-      README.md
-
-The `README.md` file contains all the textual content of your page and references the images that you need to add to the `img/` directory. 
-
-The `index.html` file connects template and your content; here you need to make a few edits to add title, description, and preview of your webpage. 
-
-You do not need to change anything within `src/`, which contains the internal files of the template.
+_Amostras de herbário (exsicatas) coletadas no Maciço da Tijuca ao longo do século XIX. Curadoria realizada pelo Departamento de Biologia da PUC Rio._
 
 
-### Syntax
+### Dicas
 
 The `README.md` uses the [Markdown](https://en.wikipedia.org/wiki/Markdown) format, a markup language used by many platforms including GitHub.
 
@@ -118,36 +165,35 @@ To exclude a section from the navigation menu, include `<!--skipnav-->` at the s
 
 
 
-### Things to consider
+### Galeria 
 
-- Include an expressive preview image `img/cover.png` so that your page can be previewed on social media and messaging apps.
-- Given that your webpage might be accessed from a mobile device with a slow connection make sure to optimize image file sizes.
-
-
----
-
-
-## Who
-
-*Syllabus Site* was put together by [Philipp Proff](https://philippproff.eu) and [Marian Dörk](https://mariandoerk.de) with the helping hands from many people.
-
-
-**Markdown munching**: [Marked](https://marked.js.org) by Christopher Jeffrey
-
-
-**Terrific typeface**: [HK Grotesk](https://github.com/HankenDesignCo/HK-Grotesk) by Alfredo Marco Pradil
-
-
-**Friendly feedback**: Myriel Milicevic, Lamin Manneh, Fidel Thomet, Mark-Jan Bludau, Sabine de Günther and Francesca Morini
-
-
-**Yes, you!**: Syllabus Site is [made available](https://github.com/uclab-potsdam/syllabus-site/) under the liberal MIT license. Feel free to reuse and revise it!
+- Link para os trabalhos
 
 
 ---
 
 
-[<img src='img/fhp.svg' style='height:2.25em'>](https://www.fh-potsdam.de/) 
-[<img src='img/id.svg' style='height:1.75em'>](https://interface.fh-potsdam.de/) 
+## Fim
 
-[Contact](mailto:marian.doerk@fh-potsdam.de,philipp.proff@gmx.de?subject=Syllabus%20Site) · [Imprint](https://www.fh-potsdam.de/impressum) · *This is a [Syllabus Site](https://infovis.fh-potsdam.de/syllabus-site/)*
+Bibliografia, agradecimentos, etc.
+
+
+### Referências
+
+- livro
+- artigo
+- video
+- etc
+
+
+### Agradecimentos
+
+Suemi, Bernardo, Bruno (FGV). Gabriel, Julia, Rejan (PUC). Martim (Arka). Philipp Proff e Marian Dörk.
+
+
+---
+
+
+[<img src='img/tijuca-logo.svg' style='height:2.25em'>](https://tiju.ca/)
+ 
+[Contato](mailto:buccalon@rice.edu?subject=Workshop%20CPDOC) · *Página criada com [Syllabus Site](https://infovis.fh-potsdam.de/syllabus-site/)*
