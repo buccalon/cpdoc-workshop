@@ -12,24 +12,23 @@ __18 e 25 de outubro de 2024, das 14h às 17h__ - _(online/zoom)_
 [Bruno Buccalon](https://bruno.land/) doutorando em história na Rice University e na Unicamp, pesquisa a criação do Parque Nacional da Tijuca. Atualmente participa do programa de trainee do Getty Research Institute. 
 
 
-### Primeiro dia
+### Dia 1: Acervos da biodiversidade
 
-Foco nos acervos da biodiversidade
+- Boas-vindas e introdução
+- Objetivos e programação da oficina
+- Apresentação dos participantes
+- Acervos da biodiversidade
+- Discussão e exercício
 
-- Primeiro isso
-- Depois aquilo
 
-E etcetera...
+### Dia 2: Ferramentas narrativas
 
-
-### Segundo dia
-
-Foco nas ferramentas de narrativas
-
-- Primeiro isso
-- Depois aquilo
-
-E etcetera...
+- Recapitulação da aula anterior
+- História ambiental digital
+- IIIF nos acervos da biodiversidade
+- Ferramentas de narrativas
+- Mão na massa
+- Discussão e próximos passos
 
 
 ---
@@ -37,7 +36,7 @@ E etcetera...
 
 ## Apresentação
 
-A oficina proporciona uma visão abrangente dos principais acervos digitais para pesquisas em história ambiental, ecologia histórica, geografia histórica, história natural, biologia, meio ambiente e áreas correlatas. O foco será na utilização de documentação histórica para criar narrativas interativas sobre fauna, flora e funga. Serão apresentadas ferramentas de "digital storytelling" e melhores práticas na reutilização de acervos digitais. Exercícios temáticos (por ex., sobre o Parque Nacional da Tijuca) ajudarão na assimilação do conhecimento apresentado.
+A oficina proporciona uma visão abrangente dos principais acervos digitais para pesquisas em história ambiental, ecologia histórica, geografia histórica, história natural, biologia, meio ambiente e áreas correlatas. O foco será na utilização de documentação histórica para criar narrativas interativas sobre fauna, flora e funga. Serão apresentadas ferramentas de _digital storytelling_ e melhores práticas na reutilização de acervos digitais.
 
 
 <img src='img/plant-humanities.jpg' class='noresize'>
@@ -55,36 +54,41 @@ A oficina proporciona uma visão abrangente dos principais acervos digitais para
 
 ## Acervos
 
-Descrever o que entendo por acervos da biodiversidade
-
-*Syllabus Site* was conceived as a tool to highlight and document these critical but frequently overlooked aspects of design projects. It serves as a dynamic interface chronicling the voyage through readings, workshops, and discussions.
-
-This approach not only retains but celebrates the meandering nature of design as an intellectual journey, ensuring that the wealth of inspirations—from historical examples and theoretical frameworks to contemporary projects and research studies—is preserved and made accessible. 
+Os __acervos da biodiversidade__ são fruto da sistematização dos dados sobre o mundo natural, relacionando arquivos históricos (como herbários e museus de história natural) com informações fruto de pesquisas atuais (materiais genéticos) e a coleta colaborativa de dados (observações de campo). A conexão e análise desses acervos fazem parte do campo da [informática da biodiversidade](https://pt.wikipedia.org/wiki/Inform%C3%A1tica_para_a_biodiversidade).
 
 
 ### GBIF
 
-[Descrição do GBIF](https://www.gbif.org/)
+- [Global Biodiversity Information Facility](https://www.gbif.org/)
 
 
-### Biodiversity Heritage Library
+### BHL
 
-[Descrição da BHL](https://www.biodiversitylibrary.org/)
-
-
-### Wikidata
-
-[Descrição da Wikidata](https://www.wikidata.org/)
+- [Biodiversity Heritage Library](https://www.biodiversitylibrary.org/)
 
 
-### SpeciesLink
+### Wikimedia
 
-[Descrição do SpeciesLink](https://specieslink.net/search/)
+- [Wikidata](https://www.wikidata.org/)
+- [Wikimedia Commons](https://commons.wikimedia.org/)
+
+
+### iNaturalist
+
+- [Diversidade do Parque Nacional da Tijuca](https://www.inaturalist.org/projects/diversidade-do-parque-nacional-da-tijuca)
+
+
+### CRIA
+
+- [SpeciesLink](https://specieslink.net/search/)
+- [Demais projetos](https://www.cria.org.br/projetos)
 
 
 ### Jardim Botânico do Rio de Janeiro
 
-[Descrição do JABOT e demais sistemas](https://jabot.jbrj.gov.br/)
+- [JABOT](https://jabot.jbrj.gov.br/)
+- [Reflora - Flora e Funga do Brasil](https://reflora.jbrj.gov.br/)
+- [Catálogo de Plantas das UCs do Brasil](https://catalogo-ucs-brasil.jbrj.gov.br/)
 
 
 ---
@@ -92,39 +96,33 @@ This approach not only retains but celebrates the meandering nature of design as
 
 ## Narrativas
 
-A *Syllabus Site* is a one-page website arranging its elements along sections that can be scrolled vertically.
+As narrativas intererativas tem sua origem no campo do jornalismo de dados, frequentemente associadas ao termo amplo _digital storytelling_. Elas podem ser construídas de diversas maneiras, e aqui estão algumas sugestões de ferramentas.
 
 
 ### Juncture
 
-Descrição do Juncture
+- [Juncture](https://www.juncture-digital.org/)
+- [Exemplo (Cedrela odorata L.)](https://www.juncture-digital.org/buccalon/cpdoc-workshop/juncture)
 
 
 ### imagineRio
 
-Descrição do imagineRio
+- [Narrativas do imagineRio](https://narratives.imaginerio.org/pt)
+- [Exemplo (Cultura do Café)](https://narratives.imaginerio.org/view/618abaf27aa17b004cadcaf3)
 
 
-### Exhibit.so
+### Syllabus Site
 
-Descrição do Exhibit.so
+- [Syllabus Site](https://infovis.fh-potsdam.de/syllabus-site/)
+- Exemplo (esse site!)
 
-
-### StoryMap.js
-
-Descrição do StoryMap.js
-
-
-### ESRI StoryMaps
-
-Descrição do ESRI StoryMaps
 
 ---
 
 
 ## Exercício
 
-Apresentação do exercício
+Escreva uma narrativa sobre alguma __planta__, __animal__ ou __fungo__ relacionado ao Parque Nacional da Tijuca. Utilize ao menos uma imagem e um documento histórico.
 
 
 <img src='img/tijuca-photo.jpg' class='noresize'>
@@ -134,14 +132,18 @@ Apresentação do exercício
 
 ### Objetivo
 
-Descrição do objetivo
+- Relacionar dados de vários de acervos
+- Entender como funciona o [procotolo IIIF](https://medium.com/ecologiadigital/conhecendo-o-iiif-padr%C3%B5es-e-ferramentas-para-publica%C3%A7%C3%A3o-de-imagens-na-web-a62af62a1b36)
+- Publicar uma narrativa rascunho
 
 
 ### Instruções
 
-1. Download or clone the [GitHub repository](https://github.com/uclab-potsdam/syllabus-site/)
-2. Give your page a title, fill out open graph fields, and adjust theme color in `index.html`
-3. Add your content into `README.md` and `img/`
+1. Escolha uma __planta__, __animal__ ou __fungo__
+2. Procure dados e imagens nos acervos
+3. Escolha <ins>uma</ins> ferramenta de narrativa
+4. Prepare sua publicação
+3. Compartilhe o link
 
 
 <img src='img/exsicatas.jpg'>
@@ -151,23 +153,8 @@ _Amostras de herbário (exsicatas) coletadas no Maciço da Tijuca ao longo do s�
 
 ### Dicas
 
-The `README.md` uses the [Markdown](https://en.wikipedia.org/wiki/Markdown) format, a markup language used by many platforms including GitHub.
-
-There are two conventions we introduce to distinguish and connect sections and items:
-
-- **Sections** are delineated by a horizontal rule `---` 
-- **Items** are separated by two empty consecutive lines
-
-Each section should contain a heading:
-`#` for primary, `##` for secondary, and so on.
-
-To exclude a section from the navigation menu, include `<!--skipnav-->` at the start of the section.
-
-
-
-### Galeria 
-
-- Link para os trabalhos
+- Não se preocupe demais com a parte técnica
+    -  _Vou te ajudar!_
 
 
 ---
@@ -175,20 +162,23 @@ To exclude a section from the navigation menu, include `<!--skipnav-->` at the s
 
 ## Fim
 
-Bibliografia, agradecimentos, etc.
+Para continuar a conversa: __bruno__@__tiju.ca__
 
 
-### Referências
+### Leitura complementar
 
-- livro
-- artigo
-- video
-- etc
+- [imagineRio Narratives](https://journalofdigitalhistory.org/en/article/m734RWDSLo9C) _(Journal of Digital History, 2024)_
+- [Visual Storytelling with Maps](https://doi.org/10.14714/CP100.1759) _(Cartographic Perspectives, 2022)_ 
+- [Scrollytelling for Beginners](https://medium.com/@scrollyforbeginners/scrollytelling-for-beginners-1-551c5bad9631) _(Medium)_
+
 
 
 ### Agradecimentos
 
-Suemi, Bernardo, Bruno (FGV). Gabriel, Julia, Rejan (PUC). Martim (Arka). Philipp Proff e Marian Dörk.
+Suemi Higuchi, Bernardo Hollanda, Bruno Macêdo (FGV); Gabriel Sales, Julia Dodel, Rejan Guedes-Bruni (PUC-Rio); e Martim Passos (Arka).
+
+
+
 
 
 ---
