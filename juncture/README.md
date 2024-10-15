@@ -15,7 +15,7 @@ A imagem representa um cedro (Cedrela odorata L.) (Família: Meliaceae) coletada
 
 O mapa está centralizado no Parque Nacional da Tijuca, área onde a espécie acima foi provavelmente coletada.
 
-O identificador do Wikidata para o Parque Nacional da Tijuca é `Q1974494`.  Quando uma localização no mapa utiliza um Wikidata ID (ou QID), o Juncture consegue automaticamente recuperar as coordenadas geográficas para centralização do mapa.
+O identificador do Wikidata (QID) para o Parque Nacional da Tijuca é `Q1974494`.  Quando um mapa utiliza um item do Wikidata, o Juncture consegue automaticamente recuperar as coordenadas geográficas.
 
 [^1]: Exemplo de nota de rodapé [https://tiju.ca/works/cedrela-odorata-l](https://tiju.ca/works/cedrela-odorata-l)
 
