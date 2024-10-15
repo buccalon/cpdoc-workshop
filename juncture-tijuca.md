@@ -18,3 +18,7 @@ O mapa está centralizado no Parque Nacional da Tijuca, área onde a espécie ac
 O identificador do Wikidata para o Parque Nacional da Tijuca é `Q1974494`.  Quando uma localização no mapa utiliza um Wikidata ID (ou QID), o Juncture consegue automaticamente recuperar as coordenadas geográficas para centralização do mapa.
 
 [^1]: Exemplo de nota de rodapé [https://tiju.ca/works/cedrela-odorata-l](https://tiju.ca/works/cedrela-odorata-l)
+
+.ve-footer
+    - Criado com [![Juncture Logo](https://juncture-digital.github.io/juncture/static/images/juncture-logo.png)](https://juncture-digital.org)
+    - [Tijuca Floresta Arquivo](https://tiju.ca/)
