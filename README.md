@@ -160,6 +160,20 @@ _Amostras de herbário (exsicatas) coletadas no Maciço da Tijuca ao longo do s�
 ---
 
 
+## Galeria
+
+Narrativas criadas pelos participantes da oficina.
+
+
+[Luciane Barbosa: Jacutinga](https://narratives.imaginerio.org/pt/view/6719b0c9b278c10061567185) (imagineRio)
+
+
+[Liene Vilhena: Pau Brasil](https://lienevilhena.github.io/Oficina-pau-brasil/) (Syllabus Site)
+
+
+---
+
+
 ## Fim
 
 Para continuar a conversa: __bruno__@__tiju.ca__
